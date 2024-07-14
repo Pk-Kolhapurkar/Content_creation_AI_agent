@@ -18,7 +18,7 @@ cachetools==5.3.3
 certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
-chroma-hnswlib==0.7.3
+chroma-hnswlib
 chromadb
 click==8.1.7
 cohere==5.5.3
@@ -196,4 +196,3 @@ youtube-transcript-api==0.6.2
 yt-dlp==2023.12.30
 zipp==3.19.0
 nest_asyncio
-pysqlite3-binary
