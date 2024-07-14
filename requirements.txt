@@ -196,3 +196,4 @@ youtube-transcript-api==0.6.2
 yt-dlp==2023.12.30
 zipp==3.19.0
 nest_asyncio
+pysqlite3-binary
